@@ -10,7 +10,7 @@ namespace Kacper_pin_final
             int k;
             int iter = 0;
 
-            Console.WriteLine(kacpersMethod(35));
+            Console.WriteLine(kacpersMethod(35)); // here type interesting number
 
             int kacpersMethod(int sum)
             {
