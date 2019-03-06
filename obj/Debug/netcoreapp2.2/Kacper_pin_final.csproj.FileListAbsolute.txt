@@ -1,0 +1,11 @@
+C:\Users\ksarama\Documents\Projects\Kacper_pin_final\bin\Debug\netcoreapp2.2\Kacper_pin_final.deps.json
+C:\Users\ksarama\Documents\Projects\Kacper_pin_final\bin\Debug\netcoreapp2.2\Kacper_pin_final.runtimeconfig.json
+C:\Users\ksarama\Documents\Projects\Kacper_pin_final\bin\Debug\netcoreapp2.2\Kacper_pin_final.runtimeconfig.dev.json
+C:\Users\ksarama\Documents\Projects\Kacper_pin_final\bin\Debug\netcoreapp2.2\Kacper_pin_final.dll
+C:\Users\ksarama\Documents\Projects\Kacper_pin_final\bin\Debug\netcoreapp2.2\Kacper_pin_final.pdb
+C:\Users\ksarama\Documents\Projects\Kacper_pin_final\obj\Debug\netcoreapp2.2\Kacper_pin_final.csprojAssemblyReference.cache
+C:\Users\ksarama\Documents\Projects\Kacper_pin_final\obj\Debug\netcoreapp2.2\Kacper_pin_final.csproj.CoreCompileInputs.cache
+C:\Users\ksarama\Documents\Projects\Kacper_pin_final\obj\Debug\netcoreapp2.2\Kacper_pin_final.AssemblyInfoInputs.cache
+C:\Users\ksarama\Documents\Projects\Kacper_pin_final\obj\Debug\netcoreapp2.2\Kacper_pin_final.AssemblyInfo.cs
+C:\Users\ksarama\Documents\Projects\Kacper_pin_final\obj\Debug\netcoreapp2.2\Kacper_pin_final.dll
+C:\Users\ksarama\Documents\Projects\Kacper_pin_final\obj\Debug\netcoreapp2.2\Kacper_pin_final.pdb
